@@ -11,7 +11,7 @@ public class SpringBootCrudDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCrudDemoApplication.class, args);
 
-
+		System.out.println("hello");
 	}
 
 }
